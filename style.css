@@ -1,12 +1,13 @@
+
 main {
-    width: 50%;
+    width: 40%;
     margin: auto;
     height: 80%;
-    background-color: black;
-    color: white;
+    background-color:aqua;
     text-align: center;
     border-radius: 10px;
     font-family: sans-serif;
+    border: 5px solid black;
 }
 
 .profile {
@@ -26,14 +27,15 @@ img {
 .links {
     padding-left: 10%;
     padding-right: 10%;
+    padding-bottom: 20px;
 }
 
 .links button {
     width: 80%;
     height: 30px;
-    background-color:black;
     margin-top: 10px;
     margin-bottom: 15px;
     padding: 10px 0;
-    border: 1px solid white;
+    border: 1px solid black;
+    background-color:aqua;
 }
